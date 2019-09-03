@@ -1,0 +1,35 @@
+[
+  {"symbol": "TPE:0050", "company_name": "元大台灣50", "current_price": 81.85,
+    "dividend": {"2018": {"cash": 0.7}, "2017": {"cash": 0.7}, "2016": {"cash": 0.7}, "2015": {"cash": 0.85}, "2014": {"cash": 2}}
+  },
+  {"symbol": "TPE:1216", "company_name": "統一", "current_price": 76.6,
+    "dividend": {"2018": {"cash": 2.5}, "2017": {"cash": 5.5}, "2016": {"cash": 2.1}, "2015": {"cash": 2}, "2014": {"cash": 1.4, "stock": 0.4}},
+    "yeps": {"2018": 7.78, "2017": 7.76, "2016": 6.19, "2015": 4.85, "2014": 2.81}
+  },
+  {"symbol": "TPE:1301", "company_name": "台塑", "current_price": 94.1,
+    "dividend": {"2018": {"cash": 6.2}, "2017": {"cash": 7}, "2016": {"cash": 5.6}, "2015": {"cash": 3.5}, "2014": {"cash": 1.2}}
+  },
+  {"symbol": "TPE:1326", "company_name": "台化", "current_price": 88.1},
+  {"symbol": "TPE:1722", "company_name": "台肥", "current_price": 45.4},
+  {"symbol": "TPE:2303", "company_name": "聯電", "current_price": 13.45},
+  {"symbol": "TPE:2317", "company_name": "鴻海", "current_price": 74.2},
+  {"symbol": "TPE:2330", "company_name": "台積電", "current_price": 259},
+  {"symbol": "TPE:2382", "company_name": "廣達", "current_price": 56.5},
+  {"symbol": "TPE:2409", "company_name": "友達", "current_price": 8.18},
+  {"symbol": "TPE:2412", "company_name": "中華電", "current_price": 109},
+  {"symbol": "TPE:2454", "company_name": "聯發科", "current_price": 367.5},
+  {"symbol": "TPE:2851", "company_name": "中再保", "current_price": 17.85},
+  {"symbol": "TPE:2881", "company_name": "富邦金", "current_price": 43.65},
+  {"symbol": "TPE:2882", "company_name": "國泰金", "current_price": 40.15},
+  {"symbol": "TPE:2883", "company_name": "開發金", "current_price": 9.09},
+  {"symbol": "TPE:2886", "company_name": "兆豐金", "current_price": 28.75},
+  {"symbol": "TPE:2887", "company_name": "台新金", "current_price": 13.4},
+  {"symbol": "TPE:2891", "company_name": "中信金", "current_price": 20.35},
+  {"symbol": "TPE:2912", "company_name": "統一超", "current_price": 292},
+  {"symbol": "TPE:3045", "company_name": "台灣大", "current_price": 112},
+  {"symbol": "TPE:3481", "company_name": "群創", "current_price": 7.02},
+  {"symbol": "TPE:4904", "company_name": "遠傳", "current_price": 73.2},
+  {"symbol": "TPE:5876", "company_name": "上海商銀", "current_price": 50.8},
+  {"symbol": "TPE:5880", "company_name": "合庫金", "current_price": 20},
+  {"symbol": "TPE:9927", "company_name": "泰銘", "current_price": 30.75}
+]
